@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../approval-service">
+      <sourceFolder url="file://$MODULE_DIR$/../approval-service/.mvn/wrapper" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../approval-service/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../approval-service/src/main/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$/../blog-microservices">
+      <sourceFolder url="file://$MODULE_DIR$/../blog-microservices/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../blog-microservices/target/generated-sources/annotations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../blog-microservices/.mvn/wrapper" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../blog-microservices/src/test/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../configuration-server">
+      <sourceFolder url="file://$MODULE_DIR$/../configuration-server/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../configuration-server/.mvn/wrapper" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../configuration-server/src/test/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../gateway-application">
+      <sourceFolder url="file://$MODULE_DIR$/../gateway-application/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../gateway-application/src/main/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../service-registry">
+      <sourceFolder url="file://$MODULE_DIR$/../service-registry/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../service-registry/.mvn/wrapper" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../service-registry/src/main/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
