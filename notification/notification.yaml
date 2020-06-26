@@ -1,0 +1,17 @@
+example:
+  property: "NOTIFICATION"
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/ApplicationBlog?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+    username: user
+    password: ENC(XA69GSlhdbXRSTBY+o5oaw==)
+    driverClassName: com.mysql.cj.jdbc.Driver
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+      naming-strategy: org.hibernate.cfg.ImprovedNamingStrategy
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+
